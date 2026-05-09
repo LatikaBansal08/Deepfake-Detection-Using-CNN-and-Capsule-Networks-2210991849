@@ -1,2 +1,8 @@
-# Deepfake-Detection-Using-CNN-and-Capsule-Networks-2210991849
-This research paper presents a deepfake detection system using CNN and Capsule Networks to identify manipulated facial images and videos. The model combines feature extraction and spatial relationship analysis to improve detection accuracy and enhance digital media authenticity and cybersecurity.
+# Research Project Details
+
+**Name:** Latika Bansal  
+**Roll No:** 2210991849  
+**Project Title:** Deepfake Detection Using CNN and Capsule Networks  
+**Type:** Research  
+**Team Details:** Latika Bansal (2210991849)  
+**Current Status:** Submitted
